@@ -1,5 +1,5 @@
 {
-    "bg": "https://images5.alphacoders.com/666/thumb-1920-666833.jpg",
+    "bg": "https://images6.alphacoders.com/319/thumb-1920-319878.jpg",
     "title": "Quiz CSS da Alura",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
@@ -27,14 +27,15 @@
       }
     ],
     "external": [
-      ""
+      "https://quiz-next-js.rodrigoandradebcc.vercel.app/",
+      "https://aluraquiz-marvel.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
-        "primary": "#0d47a1",
+        "primary": "#4e4e4e",
         "secondary": "#29b6f6",
-        "mainBg": "#ecebe7",
-        "contrastText": "#FFFFFF",
+        "mainBg": "#ecebe787",
+        "contrastText": "#000000",
         "wrong": "#FF5722",
         "success": "#4CAF50"
       },
