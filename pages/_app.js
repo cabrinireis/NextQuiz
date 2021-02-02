@@ -34,25 +34,17 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>The Simpsons Quiz</title>
+        <title>COD Quiz</title>
         {/* Primary Meta Tags */}
-        <meta name="title" content="The Simpsons Quiz" />
+        <meta name="title" content="COD Quiz" />
         <meta name="description" content="Projeto criado durante a Imersão React v2 da Alura." />
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://thesimpsonsquiz.gabriel-brasil.vercel.app/" />
-        <meta property="og:title" content="The Simpsons Quiz" />
-        <meta property="og:description" content="Prove que você é um Amarelão de verdade e responda as perguntas que só a Lisa saberia." />
-        <meta property="og:image" content="https://raw.githubusercontent.com/gabriel-brasil/thesimpsonsquiz/main/src/images/og-img.jpg" />
-        {/* Twitter */}
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://thesimpsonsquiz.gabriel-brasil.vercel.app/" />
-        <meta property="twitter:title" content="The Simpsons Quiz" />
-        <meta property="twitter:description" content="Prove que você é um Amarelão de verdade e responda as perguntas que só a Lisa saberia." />
-        <meta property="twitter:image" content="https://raw.githubusercontent.com/gabriel-brasil/thesimpsonsquiz/main/src/images/og-img.jpg" />
+        <meta property="og:url" content="https://next-quiz.cabrinireis.vercel.app/" />
+        <meta property="og:title" content="COD Quiz" />
+        <meta property="og:description" content="Vamos ver se você é um bom atirador!." />
+        <meta property="og:image" content="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/10/efy35ouuwaeovao.jpg" />
         {/* Favicon */}
-        <link rel="shortcut icon" href="https://raw.githubusercontent.com/gabriel-brasil/thesimpsonsquiz/main/src/images/favicon.ico.ico" />
-        {/* Google-Fonts */}
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet" />
       </Head>

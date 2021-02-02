@@ -38,7 +38,7 @@ export default function Home() {
             animate="show"
           >
             <Widget.Header>
-              <h1>The Simpsons</h1>
+              <h1>COD QUIZ</h1>
             </Widget.Header>
             <Widget.Content>
               <form onSubmit={(event) => {
@@ -114,7 +114,7 @@ export default function Home() {
 
         </QuizContainer>
 
-        <GitHubCorner projectUrl="https://github.com/gabriel-brasil/thesimpsonsquiz" />
+        <GitHubCorner projectUrl="https://github.com/cabrinireis/NextQuiz" />
       </QuizBackground>
     </>
   );
