@@ -1,34 +1,57 @@
 {
-    "bg": "https://images6.alphacoders.com/319/thumb-1920-319878.jpg",
+    "loading": "https://media.giphy.com/media/XLYeUvXsyYVyLf6iBd/giphy.gif",
+    "bg": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/10/efy35ouuwaeovao.jpg",
     "title": "Quiz CSS da Alura",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/42700/header.jpg?",
+        "title": "Qual é o jogo mais recente da Franquia CoD?",
         "description": "Essa é pra aquecer",
-        "answer": 2,
+        "answer": 0,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Warzone",
+          "Black Opos 3",
+          "Infinite Warfare"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
+        "image": "https://media.giphy.com/media/d8i1XJjV2Ym53KK0Dn/giphy.gif",
+        "title": "Qual foi o Primeiro Jogo?",
         "description": "Faz tempo em haha",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Modern Warfare-Paris Legion",
+           "Ghosts",
+           "WW2"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/nxlVIM3LATv0s/giphy.gif",
+        "title": "COD Mobile tem 2 modos.Quais são?",
+        "description": "Faz tempo em haha",
+        "answer": 2,
+        "alternatives": [
+           "MJ(Multijogador) e Saque(Plunder)",
+           "Saque(Plunder) e BR(Battle Royale)",
+           "MJ(Multijogador) e BR(Battle Royale)"
+        ]
+      },
+      {
+        "image": "https://img.quizur.com/f/img5eb9bdd3a5cd90.05507051.png?",
+        "title": "Quem é esse☝️?",
+        "description": "Faz tempo em haha",
+        "answer": 2,
+        "alternatives": [
+           "Alex",
+           "Domino",
+           "Simon 'Ghost' Riley"
         ]
       }
     ],
     "external": [
       "https://quiz-next-js.rodrigoandradebcc.vercel.app/",
-      "https://aluraquiz-marvel.omariosouto.vercel.app/"
+      "https://Quiz-Everybody-Hates-Chris.gabriel-nt.vercel.app/"
     ],
     "theme": {
       "colors": {

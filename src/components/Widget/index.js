@@ -3,23 +3,22 @@ import styled from 'styled-components';
 const Widget = styled.div`
   margin-top: 24px;
   margin-bottom: 24px;
-  border: 1px solid ${({ theme }) => theme.colors.primary};
+  border: 1.2px solid ${({ theme }) => theme.colors.primary};
   background-color: ${({ theme }) => theme.colors.mainBg};
   border-radius: 4px;
   overflow: hidden;
-
-  h1, h2, h3 {
+  h1,
+  h2,
+  h3 {
     font-size: 16px;
     font-weight: 700;
     line-height: 1;
     margin-bottom: 0;
-    color: #959595;
   }
   p {
     font-size: 14px;
     font-weight: 400;
     line-height: 1;
-    color: #959595;
   }
 `;
 
@@ -29,7 +28,7 @@ Widget.Header = styled.header`
   align-items: center;
   padding: 18px 32px;
   background-color: ${({ theme }) => theme.colors.primary};
-  
+
   * {
     margin: 0;
   }

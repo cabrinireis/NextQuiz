@@ -8,6 +8,8 @@
     "eslintinit": "eslint  --init"
   },
   "dependencies": {
+    "@crello/react-lottie": "^0.0.11",
+    "framer-motion": "^3.3.0-beta.22",
     "next": "latest",
     "prop-types": "^15.7.2",
     "react": "^16.8.0",
