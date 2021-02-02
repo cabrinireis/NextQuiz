@@ -16,17 +16,6 @@
         ]
       },
       {
-        "image": "https://media.giphy.com/media/d8i1XJjV2Ym53KK0Dn/giphy.gif",
-        "title": "Qual foi o Primeiro Jogo?",
-        "description": "Faz tempo em haha",
-        "answer": 0,
-        "alternatives": [
-           "Modern Warfare-Paris Legion",
-           "Ghosts",
-           "WW2"
-        ]
-      },
-      {
         "image": "https://media.giphy.com/media/nxlVIM3LATv0s/giphy.gif",
         "title": "COD Mobile tem 2 modos.Quais são?",
         "description": "Faz tempo em haha",
@@ -35,6 +24,17 @@
            "MJ(Multijogador) e Saque(Plunder)",
            "Saque(Plunder) e BR(Battle Royale)",
            "MJ(Multijogador) e BR(Battle Royale)"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/d8i1XJjV2Ym53KK0Dn/giphy.gif",
+        "title": "Qual foi o Primeiro Jogo?",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "Modern Warfare-Paris Legion",
+           "Ghosts",
+           "WW2"
         ]
       },
       {
